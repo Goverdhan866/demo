@@ -1,0 +1,911 @@
+[33mcommit 3bec79dcb59c7817b9ffe6fab32acdf79bd05c2d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Goverdhan866 <goverdhan.naidu@gmail.com>
+Date:   Sat Nov 1 16:31:16 2025 +0530
+
+    Create testing
+
+[33mcommit 024a8a3385ad05571d84bdbed8784825f7b3595e[m
+Author: Goverdhan866 <goverdhan.naidu@gmail.com>
+Date:   Thu Oct 16 16:54:30 2025 +0530
+
+    Update mytestfile
+
+[33mcommit 9ae87dc2a0c7e8c3933d6dc26b16bbea3174e795[m
+Author: Goverdhan866 <goverdhan.naidu@gmail.com>
+Date:   Thu Oct 16 16:30:42 2025 +0530
+
+    Update mytestfile
+
+[33mcommit 944ebe85e272f4e73ae8131a026ec4f989fc53c6[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun May 5 22:25:03 2024 +0200
+
+    Update mytestfile
+
+[33mcommit 3c6368494ef41397fd523993c767cde9e6c0a01f[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun May 5 22:21:10 2024 +0200
+
+    Update mytestfile
+
+[33mcommit c337d13ae17558c1f89fcec06010aa6fc5a560df[m
+Author: Ubuntu <ubuntu@devops.us-west4-a.c.empyrean-depth-416805.internal>
+Date:   Sun May 5 18:52:52 2024 +0000
+
+    testing personal access token
+
+[33mcommit 34531853483a8d06d68d9ddb071377c5bd39db26[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Feb 11 09:17:33 2024 +0100
+
+    Update index.html
+
+[33mcommit d918dee186c0dc631d6d527bdcac0cf40adba02a[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sat Dec 30 10:06:42 2023 +0100
+
+    Update chrome.yaml
+
+[33mcommit 4ca6729c96c2770dd77f99764e2404392168c476[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sat Dec 30 09:09:53 2023 +0100
+
+    Update index.html
+
+[33mcommit 1ae508ca23f306f62240c317fd90394bbd5c9503[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Nov 5 09:30:22 2023 +0100
+
+    Update testwebhook
+
+[33mcommit 918fc28b08a6003f11ea53485129ad63af5885a9[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Sep 24 10:16:13 2023 +0200
+
+    Update index.html
+
+[33mcommit 06b373b8f54be621e072b9d424ecaed9695dcbea[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Sep 24 10:03:29 2023 +0200
+
+    Update index.html
+
+[33mcommit 55693c6a36e11142f49f9149bd76b5e672b7cf9b[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Wed Aug 16 20:26:46 2023 +0200
+
+    Update index.html
+
+[33mcommit de1bd1ed6713802ffbc9b3ca7d6f8157fdee8fc8[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Wed Aug 16 20:05:21 2023 +0200
+
+    Update index.html
+
+[33mcommit 85eee2023fda64323e940a16ad174957be962ad6[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Wed Aug 16 19:54:49 2023 +0200
+
+    Update index.html
+
+[33mcommit 6371c4f2681ffbb567630af1239931915a382fdb[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Tue Aug 15 22:55:36 2023 +0200
+
+    Update index.html
+
+[33mcommit de21e8dbb4cafdb8fd6b9785cb8ea42af264e074[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Tue Aug 15 22:54:22 2023 +0200
+
+    Update index.html
+
+[33mcommit 8854ef337a6b44a8753e538ffbe131cc69d02e67[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Tue Aug 15 22:49:01 2023 +0200
+
+    Update index.html
+
+[33mcommit e358179cb9b75a0d4cb66aa0064dfc891cc12376[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Tue Aug 15 22:35:45 2023 +0200
+
+    Update index.html
+
+[33mcommit 308c4e8d7ec56c33d5e607f4139c5136d2422e60[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Tue Aug 15 22:31:59 2023 +0200
+
+    Update index.html
+
+[33mcommit 4862db7c68169571a33f5c669373b7b21d48886a[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Aug 6 10:06:24 2023 +0200
+
+    Update index.html
+
+[33mcommit 318e30f556a1145726d71faec6d3420c46cbda1f[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Aug 6 10:05:19 2023 +0200
+
+    Update index.html
+
+[33mcommit b8f6dca98cc9a030c7b511f1e5436f6d113b4577[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Aug 6 09:57:51 2023 +0200
+
+    Update testwebhook
+
+[33mcommit f519f85738227a6cdb717cc38e7b122a318c31c7[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jun 18 11:51:09 2023 +0200
+
+    Update selenium_test.py
+
+[33mcommit ac6c633cc2dff1825c340dcb334bb7ad07829974[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jun 18 11:02:40 2023 +0200
+
+    Update selenium_test.py
+
+[33mcommit 76e70d07a3169ce2e5426e3be33dbf506c508381[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jun 18 10:45:12 2023 +0200
+
+    Update docker.yaml
+
+[33mcommit 74e39dd60b35135c61d85d95bd459348f3a7df6d[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jun 18 10:12:19 2023 +0200
+
+    Update index.html
+
+[33mcommit 683cb18126f8ceec002dd6e19cd677fe56ab177b[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun May 14 09:58:05 2023 +0200
+
+    Update index.html
+
+[33mcommit f01cc799f2a8f468e9f7bb79bc730d354184fde3[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun May 14 09:56:25 2023 +0200
+
+    Update index.html
+
+[33mcommit 2ac9b44da3ca84f6faa05dcf8723bb8796e2e141[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Apr 2 10:11:55 2023 +0200
+
+    Update testwebhook
+
+[33mcommit 1bb3cbcbe8c964d5d914c0c17fb043649ecc1914[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Apr 2 10:05:06 2023 +0200
+
+    Update testwebhook
+
+[33mcommit 4dc4cd64a187693adfcce276afeb86b1e891311f[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Feb 19 18:23:29 2023 +0100
+
+    Update index.html
+
+[33mcommit 08ebbfe7ac6b30330004078918135105a395514b[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Feb 19 18:20:55 2023 +0100
+
+    Create index.html
+
+[33mcommit b4848453fc6c894497e96d4fd3ffd820119bd3d6[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jan 8 09:06:46 2023 +0100
+
+    Update testwebhook
+
+[33mcommit 71ca9762dc8a9b0fdb4b6841595575a3b14e02a3[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Oct 23 11:17:51 2022 +0530
+
+    Update testwebhook
+
+[33mcommit 69c462647e93621ab3093576de7482b6c038ad25[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Sep 18 11:05:04 2022 +0530
+
+    Update testwebhook
+
+[33mcommit 7d5b3db67dab539a37901f196fc79b698108540c[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Aug 14 11:32:27 2022 +0530
+
+    Update testwebhook
+
+[33mcommit 53905f080c28d722a1debe947cb935a790b24b93[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jul 10 11:40:53 2022 +0530
+
+    Update testwebhook
+
+[33mcommit 072195e76eaa10dfa6f7ee3d4ed1c80f7d0b60df[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jul 10 11:34:05 2022 +0530
+
+    Update testwebhook
+
+[33mcommit dcd86d1018d1b7bfa847c12d71688a760deea8e2[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jun 5 11:03:41 2022 +0530
+
+    Delete trigger
+
+[33mcommit 3f1a10045958dd7c322ffc565633fb1c814308b9[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun May 1 11:09:14 2022 +0530
+
+    Create testwebhook
+
+[33mcommit 0838a1dec27a905ae099ebebc495b820bdb01e95[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Mar 20 11:21:46 2022 +0530
+
+    Create trigger
+
+[33mcommit 00613d1629a1507f20321fb30a0d8b367b52eaa1[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jan 30 11:19:44 2022 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 055af9ea5d47c0dfc1986c27bdaa550e249a2022[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jan 30 11:12:33 2022 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 17701d5d23e1657c379f301f32e90f60e79ba184[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jan 30 10:57:58 2022 +0530
+
+    Delete testwebhook.txt
+
+[33mcommit 002bc2ddb638304d6ac9259990e438dae346efd8[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Dec 26 11:17:29 2021 +0530
+
+    Create testwebhook.txt
+
+[33mcommit c391f44ef4f148c7ab03747df69bac26301f8622[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Nov 14 11:37:12 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit b3222170de71652b9afdb6dc814b68dd3213f03b[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Nov 14 11:35:07 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit edba62af5d4243d881106e0832880884bd546460[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Nov 14 11:28:40 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 13414e4e508599e7b1c274f8d386be9d610e526b[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Nov 14 10:59:44 2021 +0530
+
+    Delete testfile
+
+[33mcommit d7fba27c0c6ea4877afeec53a3fa0ce2f0d75e0f[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Nov 14 10:58:31 2021 +0530
+
+    Create testfile
+
+[33mcommit 18345a9c71f5630900b21e2e6c3106fc6c65d51e[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Thu Oct 28 08:50:49 2021 +0530
+
+    Delete test
+
+[33mcommit 81dc70fb943040fb277f002eb6cdb9f61bb22f48[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Thu Oct 28 08:49:26 2021 +0530
+
+    Create test
+
+[33mcommit b380116f5757b4f91b8eaad65617778ba0427fdc[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Oct 3 11:53:23 2021 +0530
+
+    Update selenium_test.py
+
+[33mcommit bf9b14adb1a316f9fd0a2f062410ac2f122e3bc8[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Oct 3 11:43:32 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 05b58bd95af3c0c5f135961ca54bf7f3d0d11554[m
+Author: Ubuntu <ubuntu@j-master.us-central1-c.c.poised-honor-322203.internal>
+Date:   Sun Oct 3 05:39:03 2021 +0000
+
+    changed heading
+
+[33mcommit 40730ddfd0037123735e4a492e7ddd2d57cd918f[m
+Author: Ubuntu <ubuntu@j-master.us-central1-c.c.poised-honor-322203.internal>
+Date:   Sun Oct 3 05:36:54 2021 +0000
+
+    changed heading
+
+[33mcommit 51bc7547834be69a10cc5c6bebd082ec40ec90be[m
+Author: Sunil S Kumar <sunil.s.kumar@ukg.com>
+Date:   Tue Sep 7 00:31:14 2021 +0530
+
+    added cloudtrain
+
+[33mcommit 0bf7a99e7e0b1cb2f5ee7025671e2143f1e27a81[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Sep 6 00:53:37 2021 +0530
+
+    Update index.html
+
+[33mcommit 6878d39cccc6dbe4723f3d626d1802beb9e904ee[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Aug 29 11:40:12 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 0724d447d56cd7308f8d2c904346985301566a68[m
+Author: Ubuntu <ubuntu@a-slave.us-west4-b.c.poised-honor-322203.internal>
+Date:   Sun Aug 29 05:46:43 2021 +0000
+
+    webhook
+
+[33mcommit d0b0f7c35aba55f8dc0e95ab266badcde955a82d[m
+Author: Ubuntu <ubuntu@a-slave.us-west4-b.c.poised-honor-322203.internal>
+Date:   Sun Aug 29 05:43:31 2021 +0000
+
+    webhook
+
+[33mcommit 1c86d341f92f2daf8d96e1aabb8dbfb8ae85f75a[m
+Author: vistasunil <vista.sunil@gmail.com>
+Date:   Sat Aug 7 13:07:04 2021 +0000
+
+    added tt
+
+[33mcommit 577fefbf5cc5ae46eaea1c55a52f9254b4e7afe2[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sat Jul 31 11:46:59 2021 +0530
+
+    Update chrome.yaml
+
+[33mcommit 4f90e532e3c8e011bb7ca300e4c90bac455c6a5e[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 23:46:33 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 0aac4b2d3c97e0a610be0aaecd908287b36cac1c[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 23:30:19 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 1c54750d93e4064323e202875ccd3e2695b6c7e6[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 23:27:51 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 094dcbb3e32681ec6515c71a2274ebe023870233[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 23:27:20 2021 +0530
+
+    Update chrome.yaml
+
+[33mcommit f0feb48a9e4c9986609f8539577d2cf0495587da[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 23:22:42 2021 +0530
+
+    Update chrome.yaml
+
+[33mcommit c9beaa87da91b1c2dd1cce7b718ea31e76bb17ce[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 23:12:59 2021 +0530
+
+    Update chrome.yaml
+
+[33mcommit 29116d5ed14ad68548838f31d3dc9301b17e28f7[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 23:10:27 2021 +0530
+
+    Update docker.yaml
+
+[33mcommit b2ecb496b5c916f79a6e80e938d09d9e9028d41d[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 23:10:09 2021 +0530
+
+    Update chrome.yaml
+
+[33mcommit b2c4f6a89c1bbc1ea5bf5a1865e70fdd97fd74dd[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 23:08:21 2021 +0530
+
+    Update chrome.yaml
+
+[33mcommit f6a73fb9f44ee95510b7c7c13b2a2931edacf515[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 23:08:06 2021 +0530
+
+    Update docker.yaml
+
+[33mcommit 59de28491a7c8df4f03443f38c1e052a4c99c1a4[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 23:06:54 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit d3a3198a5913527f3c0e0f16ef008467391f695f[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 23:05:26 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 351c2d5c98d7ac665c3ce63ccb377545e9c008a3[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 23:04:30 2021 +0530
+
+    Update docker.yaml
+
+[33mcommit 5112ccddca543027c855bccd08b8730d43973bf9[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 23:04:08 2021 +0530
+
+    Create chrome.yaml
+
+[33mcommit 9a3ad91b8793ab32d73d92f37ff039906147163e[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 23:02:25 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 53cda0cd8037f6dee0c4be063b448bf421767ef1[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 22:57:15 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit c5716fd529308fe2eef6a03021fe52645c8e1455[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 22:56:06 2021 +0530
+
+    Create selenium_test.py
+
+[33mcommit 5a306cafc7c62e11656d8fb3a0290e622c4cf1ad[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 22:45:53 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit a6c9362a907f33976889883af8c7206b1106706d[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 22:38:52 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 0d7b18302cc4a5790ab661d3135094e9c51d0233[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 22:37:06 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit bbe2e8ed3cc551ea17bfb7d4d285064a9f43b364[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Jul 26 22:30:39 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit fa6f2a4e675e2facfe11f05d16b0a2c246badae8[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jul 25 11:37:26 2021 +0530
+
+    Update Jenkinsfile_sel
+
+[33mcommit 694d089c95f2a8d943c66ff1d524f718e9ef9419[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jul 25 11:34:35 2021 +0530
+
+    Update Jenkinsfile_sel
+
+[33mcommit 2e76741736c51db2b848b1c523d98486a19c2bdb[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jul 25 11:30:51 2021 +0530
+
+    Update Jenkinsfile_sel
+
+[33mcommit 0b7d0230c6c34de56b05579bd65bb67603bec84d[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jul 25 11:29:09 2021 +0530
+
+    Update Jenkinsfile_sel
+
+[33mcommit ee995dbaad932852cecd4298b40a39859267f2e8[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jul 25 11:16:51 2021 +0530
+
+    Update docker.yaml
+
+[33mcommit 4882d58d4c82e66e2b808c1252febbd72e75e4aa[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jul 25 11:11:53 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 5af30003a86a6e7c601a09fae8163202204c1339[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jul 25 11:07:04 2021 +0530
+
+    Update docker.yaml
+
+[33mcommit 7375481662727211780a004ce2e79eef86c36be2[m
+Author: Ubuntu <ubuntu@jenkins.us-central1-a.c.devops-314416.internal>
+Date:   Sun Jul 25 05:23:11 2021 +0000
+
+    added tt file
+
+[33mcommit fc627a1cd2c3ddb6ed73906b5b9b005aee53c9c9[m
+Author: Ubuntu <ubuntu@jenkins.us-central1-a.c.devops-314416.internal>
+Date:   Sun Jul 25 05:19:20 2021 +0000
+
+    deleted tt file
+
+[33mcommit c1e165b3824015e3b4439c0a9b790a786c298190[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sun Jun 20 11:25:53 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 88744055144603faa6848f65a2a9e5ec8c394c40[m
+Author: Ubuntu <ubuntu@slave.us-central1-a.c.devops-314416.internal>
+Date:   Sun Jun 20 05:31:10 2021 +0000
+
+    creatd tt
+
+[33mcommit 5ee30db0df4799c431a70c28f0601519526b9455[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Sat Jun 19 20:41:43 2021 +0530
+
+    Create Jenkinsfile_sel
+
+[33mcommit 6217828df642b949188912558f3971e304565494[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Fri Jun 18 17:55:34 2021 +0530
+
+    Delete tt
+
+[33mcommit f543bb5997a5b2d1e7dc08177802a12f6930e00b[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Fri Jun 18 17:55:22 2021 +0530
+
+    Create Jenkinsfile
+
+[33mcommit 72c086cb3a124deda0430906fb0f5dcb8767df38[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Fri Jun 18 17:53:46 2021 +0530
+
+    Create docker.yaml
+
+[33mcommit bc41494a85c5c88a3a3d27e3cbdd50c4d1f1c621[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Fri Jun 18 17:29:19 2021 +0530
+
+    Update Dockerfile
+
+[33mcommit d08e7b1a6f1f1247302be05f79401da3d4236912[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Fri Jun 18 17:21:00 2021 +0530
+
+    Update Dockerfile
+
+[33mcommit d05c0a6c7aafd6cef6436f77e0906144965d4604[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Fri Jun 18 17:07:45 2021 +0530
+
+    Update Dockerfile
+
+[33mcommit f90d7945ae3dfcec04309314cf863bba6baa40f4[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Fri Jun 18 16:38:49 2021 +0530
+
+    Update Dockerfile
+
+[33mcommit aa5537f405699f71983bd4b12813f4f194161ec0[m
+Author: Ubuntu <ubuntu@docker.us-central1-a.c.devops-267109.internal>
+Date:   Thu Mar 18 15:00:08 2021 +0000
+
+    webhook code
+
+[33mcommit 8df78394948884256f3dafb911fe8e8b10044f23[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Mar 15 22:00:16 2021 +0530
+
+    Update index.html
+
+[33mcommit 77df80923502b2624238b2f3fcc2fb77e576ee41[m
+Author: vistasunil <37858762+vistasunil@users.noreply.github.com>
+Date:   Mon Mar 15 21:59:38 2021 +0530
+
+    Update index.html
+
+[33mcommit 170c031e836b96bfefccbebcb9c51ad5d2293a10[m
+Author: Ubuntu <ubuntu@docker.us-central1-a.c.devops-267109.internal>
+Date:   Sun Mar 14 16:39:48 2021 +0000
+
+    add
+
+[33mcommit 852ff16fc915f0a9ab42ca724e832bc86f96b952[m
+Author: Ubuntu <ubuntu@docker.us-central1-a.c.devops-267109.internal>
+Date:   Sun Mar 14 15:48:41 2021 +0000
+
+    files deleted
+
+[33mcommit d87512eff450c834e55d772ff43551deed62bbea[m
+Author: vistasunil <vista.sunil@gmail.com>
+Date:   Sun Mar 14 14:55:36 2021 +0000
+
+    new file
+
+[33mcommit 0844d6259b4e30a5af2d36e3fd50b548639fa13d[m
+Author: Ubuntu <ubuntu@slave2.us-central1-a.c.devops-267109.internal>
+Date:   Sun Mar 7 17:35:20 2021 +0000
+
+    Webhook pipeline
+
+[33mcommit cc26380b7f45bfcf31831fc4f4f6e438fd6e2ab2[m
+Author: hshar <hshar@users.noreply.github.com>
+Date:   Fri Jun 14 12:03:48 2019 +0530
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 55d4c573efcd1f1ab70c2f926cb41f4c61d29d20[m
+Author: Ubuntu <ubuntu@ip-172-31-32-166.us-east-2.compute.internal>
+Date:   Wed Dec 12 10:48:46 2018 +0000
+
+    newest commit
+
+[33mcommit a73f77cf443604a06ac106a8c9574e5e4c2b6ead[m
+Author: Ubuntu <ubuntu@ip-172-31-32-166.us-east-2.compute.internal>
+Date:   Wed Dec 12 10:46:35 2018 +0000
+
+    new commit
+
+[33mcommit e3e615fb349d7e68a099a71d438c16abe841142e[m
+Author: hshar <hshar@users.noreply.github.com>
+Date:   Wed Dec 12 14:45:26 2018 +0530
+
+    Update index.html
+
+[33mcommit 7f38e9b8081c3d75281f27000004eecb99c7b2d2[m
+Author: Ubuntu <ubuntu@ip-172-31-40-126.us-east-2.compute.internal>
+Date:   Tue Dec 4 13:35:07 2018 +0000
+
+    add
+
+[33mcommit 6b957c940ebf3130477b35ee741cdb24dbf19a40[m
+Author: Ubuntu <ubuntu@ip-172-31-26-211.us-east-2.compute.internal>
+Date:   Mon Nov 12 19:54:22 2018 +0000
+
+    Revert "test push 3"
+    
+    This reverts commit de812a4bd255448be2e7478992908805f584ca72.
+
+[33mcommit de812a4bd255448be2e7478992908805f584ca72[m
+Author: Ubuntu <ubuntu@ip-172-31-26-211.us-east-2.compute.internal>
+Date:   Mon Nov 12 19:53:07 2018 +0000
+
+    test push 3
+
+[33mcommit a318b4a4d5c1ff3af776381901bc9f62574ef309[m
+Author: Ubuntu <ubuntu@ip-172-31-26-211.us-east-2.compute.internal>
+Date:   Mon Nov 12 19:49:47 2018 +0000
+
+    test push 2
+
+[33mcommit 6c04e8f429c7afa7da095205ae14db715bf20188[m
+Author: Ubuntu <ubuntu@ip-172-31-26-211.us-east-2.compute.internal>
+Date:   Mon Nov 12 19:47:55 2018 +0000
+
+    test push
+
+[33mcommit b82863e190b991ac515dd0aeb87d3a6e9102fb23[m
+Author: Ubuntu <ubuntu@ip-172-31-26-211.us-east-2.compute.internal>
+Date:   Mon Nov 12 19:41:56 2018 +0000
+
+    added docker file
+
+[33mcommit f79ecbaa69de0db8676800690e8a00770bb1952e[m
+Author: root <root@ip-172-31-26-211.us-east-2.compute.internal>
+Date:   Mon Nov 12 19:00:29 2018 +0000
+
+    Revert "changed background"
+    
+    This reverts commit e86f67c37653838c6f8590589fb61b32950161fa.
+
+[33mcommit e86f67c37653838c6f8590589fb61b32950161fa[m
+Author: root <root@ip-172-31-26-211.us-east-2.compute.internal>
+Date:   Mon Nov 12 18:58:36 2018 +0000
+
+    changed background
+
+[33mcommit 3de7ba7da09e83df15baaac3fe87ea81b4e77914[m
+Author: root <root@ip-172-31-26-211.us-east-2.compute.internal>
+Date:   Mon Nov 12 18:38:56 2018 +0000
+
+    changed
+
+[33mcommit 9a2997e223d7686d910041d020d2ae3b7e0b1bec[m
+Author: root <root@ip-172-31-26-211.us-east-2.compute.internal>
+Date:   Mon Nov 12 18:23:59 2018 +0000
+
+    changed background
+
+[33mcommit 908a9067b8457dcea0669fa6f547c0dd4a5c2747[m
+Author: Ubuntu <ubuntu@ip-172-31-26-211.us-east-2.compute.internal>
+Date:   Mon Nov 12 10:09:16 2018 +0000
+
+    test
+
+[33mcommit 8cf2c8f7c3ada7076a474124f0ae72dd6b952d52[m
+Author: Ubuntu <ubuntu@ip-172-31-26-211.us-east-2.compute.internal>
+Date:   Mon Nov 12 10:00:24 2018 +0000
+
+    changed_background
+
+[33mcommit 6b2d8d503b32c4c74d773949278278b7c3ec770f[m
+Author: Ubuntu <ubuntu@ip-172-31-26-211.us-east-2.compute.internal>
+Date:   Mon Nov 12 09:49:16 2018 +0000
+
+    CICD
+
+[33mcommit 729fd96f0c96c892788b4d7137a0fcc07d7264f1[m
+Author: Ubuntu <ubuntu@ip-172-31-26-211.us-east-2.compute.internal>
+Date:   Mon Nov 12 09:36:20 2018 +0000
+
+    removed dockerfile
+
+[33mcommit e44a2a328ceb3d8d57f08f6d076e06b17d77de86[m
+Author: root <root@ip-172-31-26-211.us-east-2.compute.internal>
+Date:   Mon Nov 12 09:28:45 2018 +0000
+
+    Revert "changed background"
+    
+    This reverts commit 24b2373c9ba7771f772e75184cdc84b04a5199a9.
+
+[33mcommit 24b2373c9ba7771f772e75184cdc84b04a5199a9[m
+Author: root <root@ip-172-31-26-211.us-east-2.compute.internal>
+Date:   Mon Nov 12 09:27:27 2018 +0000
+
+    changed background
+
+[33mcommit 3b9fb90ccb3fd6e09954252b40098da47f7be320[m
+Author: Ubuntu <ubuntu@ip-172-31-33-98.us-east-2.compute.internal>
+Date:   Wed Oct 31 20:10:09 2018 +0000
+
+    test
+
+[33mcommit c282dc52130b438a28ef6902786cc52d76bc4a4b[m
+Author: Ubuntu <ubuntu@ip-172-31-33-98.us-east-2.compute.internal>
+Date:   Wed Oct 31 20:08:18 2018 +0000
+
+    changed code
+
+[33mcommit 2694f9758b5dc4e72046119822a25412b99df509[m
+Author: Ubuntu <ubuntu@ip-172-31-33-98.us-east-2.compute.internal>
+Date:   Wed Oct 31 20:03:14 2018 +0000
+
+    changing file structure
+
+[33mcommit 625e61ba8d6a58cae25ca5c83a61d6ae3587a42a[m
+Author: Ubuntu <ubuntu@ip-172-31-33-98.us-east-2.compute.internal>
+Date:   Wed Oct 31 19:58:18 2018 +0000
+
+    Adding Dockerfile
+
+[33mcommit 6468ff46f9d726c237d43a5128e2599872d0a412[m
+Author: Ubuntu <ubuntu@ip-172-31-33-98.us-east-2.compute.internal>
+Date:   Wed Oct 31 19:37:50 2018 +0000
+
+    change
+
+[33mcommit 4350c61b365076464645b8036e3312eb2ef1fb0c[m
+Author: Ubuntu <ubuntu@ip-172-31-33-98.us-east-2.compute.internal>
+Date:   Wed Oct 31 19:32:24 2018 +0000
+
+    change
+
+[33mcommit a357871c03be3711f5791529497a06c403f1bf03[m
+Author: Ubuntu <ubuntu@ip-172-31-33-98.us-east-2.compute.internal>
+Date:   Wed Oct 31 19:29:23 2018 +0000
+
+    change
+
+[33mcommit 3e3764b5e5d6b9a1fa3ee4e5c3fdd77137b595a8[m
+Author: Ubuntu <ubuntu@ip-172-31-33-98.us-east-2.compute.internal>
+Date:   Wed Oct 31 19:25:54 2018 +0000
+
+    change
+
+[33mcommit 8471be82a0d15b9bcfcf6da57245676155b0450f[m
+Author: root <root@ip-172-31-33-98.us-east-2.compute.internal>
+Date:   Wed Oct 31 18:43:53 2018 +0000
+
+    Revert "Changed Background"
+    
+    This reverts commit fedccf823e952a570a75414a278c1f9e61f3ba1c.
+
+[33mcommit fedccf823e952a570a75414a278c1f9e61f3ba1c[m
+Author: root <root@ip-172-31-33-98.us-east-2.compute.internal>
+Date:   Wed Oct 31 18:42:06 2018 +0000
+
+    Changed Background
+
+[33mcommit 8e316b56ed459ac265f1636a4d6a94f0fb0274cc[m
+Author: root <root@ip-172-31-33-98.us-east-2.compute.internal>
+Date:   Tue Oct 30 09:23:24 2018 +0000
+
+    This will Revert "changed image in the background"
+    
+    This reverts commit b902419a4dd057e4c24562b3edafcc73236185de.
+
+[33mcommit b902419a4dd057e4c24562b3edafcc73236185de[m
+Author: root <root@ip-172-31-33-98.us-east-2.compute.internal>
+Date:   Tue Oct 30 09:21:30 2018 +0000
+
+    changed image in the background
+
+[33mcommit a5c396965943e1b110463fce253c6ecc5db43604[m
+Author: root <root@ip-172-31-33-98.us-east-2.compute.internal>
+Date:   Tue Oct 30 08:53:57 2018 +0000
+
+    Revert "changed image"
+    
+    This reverts commit 772741ea917d5705efa683bcf50f9db45ea8c69a.
+
+[33mcommit 772741ea917d5705efa683bcf50f9db45ea8c69a[m
+Author: root <root@ip-172-31-33-98.us-east-2.compute.internal>
+Date:   Tue Oct 30 08:52:01 2018 +0000
+
+    changed image
+
+[33mcommit 22ec3a8ebe590f476bb06b5ffd030edbb75ac601[m
+Author: Ubuntu <ubuntu@ip-172-31-33-98.us-east-2.compute.internal>
+Date:   Tue Oct 30 08:40:47 2018 +0000
+
+    Revert "first website""
+    
+    This reverts commit 71a709f0e774641d512c55751bf3bb10b4691390.
+
+[33mcommit 71a709f0e774641d512c55751bf3bb10b4691390[m
+Author: Ubuntu <ubuntu@ip-172-31-45-80.us-east-2.compute.internal>
+Date:   Sat Oct 27 22:33:52 2018 +0000
+
+    Reverting from "first website" first commit
+    
+    This reverts commit 04f93f643cdb33cd650a2b7581d38286efc9b270.
+
+[33mcommit 04f93f643cdb33cd650a2b7581d38286efc9b270[m
+Author: Ubuntu <ubuntu@ip-172-31-45-80.us-east-2.compute.internal>
+Date:   Sat Oct 27 22:29:24 2018 +0000
+
+    first website
+
+[33mcommit f2e850b539d73d6818edb27719af8056f7ac1695[m
+Author: Ubuntu <ubuntu@ip-172-31-45-80.us-east-2.compute.internal>
+Date:   Sat Oct 27 22:14:14 2018 +0000
+
+    first commit
